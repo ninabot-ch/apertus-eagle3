@@ -1,0 +1,10 @@
+apertus-eagle3
+Copyright 2026 Ninabot Sàrl
+
+This repository contains scripts and documentation only. It does not contain
+any vLLM or Apertus source code or weights.
+
+The patch files applied by apply-patches.sh are written by the Swiss AI
+team and are fetched from https://github.com/swiss-ai/apertus-speculative-decoding
+at a pinned commit; they remain their property and are not redistributed here.
+They modify vLLM (https://github.com/vllm-project/vllm, Apache-2.0).
